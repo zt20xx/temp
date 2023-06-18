@@ -1,5 +1,5 @@
 
-└─$ gcc zom.c -o tls_communication -lssl -lcrypto     
+└─$ gcc zop.c -o tls_communication -lssl -lcrypto     
 
 └─$ gcc zmb.c -o mbed -lmbedtls -lmbedcrypto -lmbedx509     
     
